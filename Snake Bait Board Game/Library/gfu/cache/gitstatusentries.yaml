@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-07T16:34:23.6610100-04:00
   lastVerifiedAtString: 2018-04-07T16:34:23.6610100-04:00
   initializedAtString: 2018-04-03T14:06:47.0469959-04:00
@@ -18,17 +19,34 @@ MonoBehaviour:
   - path: Snake Bait Board Game\Assets\Cube.unity
     fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
       Board Game\Assets\Cube.unity
+=======
+  lastUpdatedAtString: 2018-04-07T15:03:06.4247726-04:00
+  lastVerifiedAtString: 2018-04-07T15:03:06.4247726-04:00
+  initializedAtString: 2018-04-07T15:03:06.4247726-04:00
+  entries:
+  - path: Snake Bait Board Game\Assets\Cube.unity
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Assets\Cube.unity
+>>>>>>> 69b6d2b33f1fcacf3a9147ad0e69964f425aa65e
     projectPath: Assets\Cube.unity
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game\Assets\Cube.unity.meta
     fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
       Board Game\Assets\Cube.unity.meta
     projectPath: Assets\Cube.unity.meta
+=======
+  - path: Snake Bait Board Game\Library\assetDatabase3
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+>>>>>>> 69b6d2b33f1fcacf3a9147ad0e69964f425aa65e
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game\Library\assetDatabase3
     fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
       Board Game\Library\assetDatabase3
@@ -36,26 +54,29 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+=======
+>>>>>>> 69b6d2b33f1fcacf3a9147ad0e69964f425aa65e
   - path: Snake Bait Board Game\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
-      Board Game\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Snake Bait Board Game\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
-      Board Game\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Snake Bait Board Game\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
-      Board Game\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
+<<<<<<< HEAD
     staged: 0
   - path: Snake Bait Board Game\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
@@ -63,20 +84,23 @@ MonoBehaviour:
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     status: 3
+=======
+>>>>>>> 69b6d2b33f1fcacf3a9147ad0e69964f425aa65e
     staged: 0
   - path: Snake Bait Board Game\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
-      Board Game\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: Snake Bait Board Game\Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
-      Board Game\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     status: 3
+<<<<<<< HEAD
     staged: 0
   - path: Snake Bait Board Game\Library\metadata\b0\b0bd4506c1038994d965e4f49ffb91a2
     fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
@@ -159,19 +183,33 @@ MonoBehaviour:
     fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
       Board Game\Library\metadata\9a\9aef04efaa42dd14a9a13c16d065bbfb.info
     projectPath: Library\metadata\9a\9aef04efaa42dd14a9a13c16d065bbfb.info
+=======
+    staged: 0
+  - path: Snake Bait Board Game\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\EditorInstance.json
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+>>>>>>> 69b6d2b33f1fcacf3a9147ad0e69964f425aa65e
     originalPath: 
     status: 1
     staged: 0
   - path: Snake Bait Board Game\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
-      Board Game\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
     status: 1
     staged: 0
   - path: Snake Bait Board Game\Temp\UnityLockfile
-    fullPath: C:\Users\Jesse Jenkins\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
-      Board Game\Temp\UnityLockfile
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     status: 1
