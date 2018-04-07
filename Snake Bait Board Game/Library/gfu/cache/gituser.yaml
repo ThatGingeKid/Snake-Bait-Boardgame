@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -1697640569, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-28T13:54:59.9766974-04:00
-  lastVerifiedAtString: 2018-03-28T13:54:59.9766974-04:00
-  initializedAtString: 2018-03-28T13:54:59.9251622-04:00
-  gitName: ThatGingeKid
-  gitEmail: jjjenkin@umich.edu
+  lastUpdatedAtString: 2018-04-07T15:02:15.6941060-04:00
+  lastVerifiedAtString: 2018-04-07T15:02:15.6941060-04:00
+  initializedAtString: 2018-04-07T15:02:15.6851054-04:00
+  gitName: Daniel Neamtu
+  gitEmail: dneamtu@umich.edu
