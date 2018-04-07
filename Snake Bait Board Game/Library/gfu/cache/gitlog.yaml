@@ -11,10 +11,78 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-07T15:02:57.8607241-04:00
-  lastVerifiedAtString: 2018-04-07T15:02:57.8607241-04:00
-  initializedAtString: 2018-04-07T15:02:57.8607241-04:00
+  lastUpdatedAtString: 2018-04-07T15:03:50.0451295-04:00
+  lastVerifiedAtString: 2018-04-07T15:03:50.0451295-04:00
+  initializedAtString: 2018-04-07T15:03:50.0451295-04:00
   log:
+  - commitID: eb133a47f736373414b5dd0d585d9ec056c9bf89
+    mergeA: 
+    mergeB: 
+    authorName: Daniel Neamtu
+    authorEmail: dneamtu@umich.edu
+    commitEmail: dneamtu@umich.edu
+    commitName: Daniel Neamtu
+    summary: Deleted Cube added Plan
+    description: Deleted Cube added Plan
+    timeString: 2018-04-07T15:03:26.0000000-04:00
+    commitTimeString: 2018-04-07T15:03:26.0000000-04:00
+    changes:
+    - path: Snake Bait Board Game\Assets\Cube.unity
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Assets\Cube.unity
+      projectPath: Assets\Cube.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game\Library\assetDatabase3
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: e3001fcd1207dcc16c8038be03d4b55e6aa3e680
     mergeA: 
     mergeB: 
