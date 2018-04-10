@@ -11,16 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -1697640569, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-03-28T13:54:59.9766974-04:00
-  lastVerifiedAtString: 2018-04-03T14:02:31.8651177-04:00
-  initializedAtString: 2018-04-03T14:02:31.8160813-04:00
-  gitName: ThatGingeKid
-  gitEmail: jjjenkin@umich.edu
-=======
-  lastUpdatedAtString: 2018-04-07T15:02:15.6941060-04:00
-  lastVerifiedAtString: 2018-04-07T15:03:50.3141377-04:00
-  initializedAtString: 2018-04-07T15:03:50.3001369-04:00
-  gitName: Daniel Neamtu
-  gitEmail: dneamtu@umich.edu
->>>>>>> 69b6d2b33f1fcacf3a9147ad0e69964f425aa65e
+  lastUpdatedAtString: 2018-04-09T21:29:34.7221422-04:00
+  lastVerifiedAtString: 2018-04-10T00:02:51.7974535-04:00
+  initializedAtString: 2018-04-10T00:02:51.7804371-04:00
+  gitName: youngjiddle
+  gitEmail: falbright1@gmail.com
