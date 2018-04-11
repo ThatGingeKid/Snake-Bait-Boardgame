@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T12:51:49.1583620-04:00
   lastVerifiedAtString: 2018-04-11T12:51:49.1691090-04:00
   initializedAtString: 2018-04-11T12:51:49.1583620-04:00
@@ -19,104 +20,1614 @@ MonoBehaviour:
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Library/CrashedAssetImports.txt
     projectPath: Library/CrashedAssetImports.txt
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-04-11T11:32:00.3063270-04:00
+  lastVerifiedAtString: 2018-04-11T11:32:00.3063270-04:00
+  initializedAtString: 2018-04-11T11:32:00.3063270-04:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-04-11T12:32:40.4683770-04:00
+  lastVerifiedAtString: 2018-04-11T12:32:46.5516260-04:00
+  initializedAtString: 2018-04-11T12:29:48.6290630-04:00
+  entries:
+=======
+  lastUpdatedAtString: 2018-04-11T11:21:59.4731730-04:00
+  lastVerifiedAtString: 2018-04-11T11:22:54.6639990-04:00
+  initializedAtString: 2018-04-11T11:00:05.1824170-04:00
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
+  entries:
+  - path: Snake Bait Board Game\Library\AssetImportState
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\AssetImportState
+    projectPath: Library\AssetImportState
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\EditorInstance.json
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\assetDatabase3
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+>>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
-  - path: Snake Bait Board Game/Library/CurrentLayout.dwlt
-    fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
-      Bait Board Game/Library/CurrentLayout.dwlt
-    projectPath: Library/CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Snake Bait Board Game/Library/EditorInstance.json
-    fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
-      Bait Board Game/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
-    originalPath: 
-    status: 3
-    staged: 0
+<<<<<<< HEAD
+  - path: Snake Bait Board Game\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+=======
+>>>>>>> 4279126e7c50171de27f1638e7a8327cef520f30
   - path: Snake Bait Board Game/Library/gfu/cache/branches.yaml
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
     originalPath: 
     status: 3
     staged: 0
-  - path: Snake Bait Board Game/Library/gfu/cache/gitlog.yaml
+<<<<<<< HEAD
+  - path: Snake Bait Board Game/Library/EditorInstance.json
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
-      Bait Board Game/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
+      Bait Board Game/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+=======
+  - path: Snake Bait Board Game\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Snake Bait Board Game/Library/gfu/cache/gitstatusentries.yaml
-    fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
-      Bait Board Game/Library/gfu/cache/gitstatusentries.yaml
-    projectPath: Library/gfu/cache/gitstatusentries.yaml
+  - path: Snake Bait Board Game\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Snake Bait Board Game/Library/gfu/cache/gittrackingstatus.yaml
-    fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
-      Bait Board Game/Library/gfu/cache/gittrackingstatus.yaml
-    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+  - path: Snake Bait Board Game\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
+  - path: Snake Bait Board Game\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+=======
+<<<<<<< HEAD
+=======
   - path: Snake Bait Board Game/Library/gfu/cache/gituser.yaml
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Library/gfu/cache/gituser.yaml
     projectPath: Library/gfu/cache/gituser.yaml
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
+>>>>>>> parent of b875227... commit
     originalPath: 
     status: 3
     staged: 0
-  - path: Snake Bait Board Game/Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
-      Bait Board Game/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000002000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000002000000000000000
+    projectPath: Library\metadata\00\00000000000000002000000000000000
     originalPath: 
     status: 3
     staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000004000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000004100000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000005000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+=======
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000006000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000006100000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000007000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000007000000000000000
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000007100000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000007100000000000000
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\0000000000000000a000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\0000000000000000a000000000000000
+    projectPath: Library\metadata\00\0000000000000000a000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\0000000000000000a100000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\00\0000000000000000c000000000000000
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\0b\0bbb43aff4f7811419ffceb1b16cf3d6.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\0b\0bbb43aff4f7811419ffceb1b16cf3d6.info
+    projectPath: Library\metadata\0b\0bbb43aff4f7811419ffceb1b16cf3d6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    projectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\0e\0ee8426f5365173448a3ee9c417199d3
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\0e\0ee8426f5365173448a3ee9c417199d3
+    projectPath: Library\metadata\0e\0ee8426f5365173448a3ee9c417199d3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\10\102e7c5c5e3b1f3468518cb166967d77.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\10\102e7c5c5e3b1f3468518cb166967d77.info
+    projectPath: Library\metadata\10\102e7c5c5e3b1f3468518cb166967d77.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\1e\1edd0950293e8664094053a041548c23.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\1e\1edd0950293e8664094053a041548c23.info
+    projectPath: Library\metadata\1e\1edd0950293e8664094053a041548c23.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\1f\1fd8c568b1fcdbe43be65c1619cf3293.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\1f\1fd8c568b1fcdbe43be65c1619cf3293.info
+    projectPath: Library\metadata\1f\1fd8c568b1fcdbe43be65c1619cf3293.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\21\21c56577d32c93e48842112806607543
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\21\21c56577d32c93e48842112806607543
+    projectPath: Library\metadata\21\21c56577d32c93e48842112806607543
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\24\2421a4955e71725448211e6bfbc7d7fb.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\24\2421a4955e71725448211e6bfbc7d7fb.info
+    projectPath: Library\metadata\24\2421a4955e71725448211e6bfbc7d7fb.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\25\250a1a103b3b4914c9707e6a423446d6.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\25\250a1a103b3b4914c9707e6a423446d6.info
+    projectPath: Library\metadata\25\250a1a103b3b4914c9707e6a423446d6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    projectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\28\28b41fef228d6814f90e541deaf9f262.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\28\28b41fef228d6814f90e541deaf9f262.info
+    projectPath: Library\metadata\28\28b41fef228d6814f90e541deaf9f262.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    projectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\32\32c83a5d3ba42b84aa26386eac47566b
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\32\32c83a5d3ba42b84aa26386eac47566b
+    projectPath: Library\metadata\32\32c83a5d3ba42b84aa26386eac47566b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\33\3359915af07779e4e9a966df9eed764f.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\33\3359915af07779e4e9a966df9eed764f.info
+    projectPath: Library\metadata\33\3359915af07779e4e9a966df9eed764f.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\33\33db60c37b63f08448ded4b385e74e38.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\33\33db60c37b63f08448ded4b385e74e38.info
+    projectPath: Library\metadata\33\33db60c37b63f08448ded4b385e74e38.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\34\3467f4170568a484d8b57e2051a27363
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\34\3467f4170568a484d8b57e2051a27363
+    projectPath: Library\metadata\34\3467f4170568a484d8b57e2051a27363
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\36\36bafabb5572c6347923b971425ab3be
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\36\36bafabb5572c6347923b971425ab3be
+    projectPath: Library\metadata\36\36bafabb5572c6347923b971425ab3be
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\38\385939aed18e82d41894437798c30ed8
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\38\385939aed18e82d41894437798c30ed8
+    projectPath: Library\metadata\38\385939aed18e82d41894437798c30ed8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\3a\3a1c68c8292caf046bd21158886c5e40
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\3a\3a1c68c8292caf046bd21158886c5e40
+    projectPath: Library\metadata\3a\3a1c68c8292caf046bd21158886c5e40
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\3c\3c2ea7753c1425145a74d106ec1cd852
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\3c\3c2ea7753c1425145a74d106ec1cd852
+    projectPath: Library\metadata\3c\3c2ea7753c1425145a74d106ec1cd852
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\40\40d7f27f614cc1043a1f7e19074f461c.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\40\40d7f27f614cc1043a1f7e19074f461c.info
+    projectPath: Library\metadata\40\40d7f27f614cc1043a1f7e19074f461c.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\45\45757dcc8f119454dac6365e8fd15e8b
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\45\45757dcc8f119454dac6365e8fd15e8b
+    projectPath: Library\metadata\45\45757dcc8f119454dac6365e8fd15e8b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\48\481dd67bdedc3104ea2156ed49f3acd5
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\48\481dd67bdedc3104ea2156ed49f3acd5
+    projectPath: Library\metadata\48\481dd67bdedc3104ea2156ed49f3acd5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\48\48a2fdbd95acd794caf78a85a0b6926a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\48\48a2fdbd95acd794caf78a85a0b6926a
+    projectPath: Library\metadata\48\48a2fdbd95acd794caf78a85a0b6926a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\48\48d40dfeb33b717488f55ddbf676643a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\48\48d40dfeb33b717488f55ddbf676643a
+    projectPath: Library\metadata\48\48d40dfeb33b717488f55ddbf676643a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\4a\4a7755d6b5b67874f89c85f56f95fe97
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\4a\4a7755d6b5b67874f89c85f56f95fe97
+    projectPath: Library\metadata\4a\4a7755d6b5b67874f89c85f56f95fe97
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\4f\4f9843c79516ed1468b9b5a4f32e67e3.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\4f\4f9843c79516ed1468b9b5a4f32e67e3.info
+    projectPath: Library\metadata\4f\4f9843c79516ed1468b9b5a4f32e67e3.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\4f\4fb51aa7001a2244395ddf6a15d37389.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\4f\4fb51aa7001a2244395ddf6a15d37389.info
+    projectPath: Library\metadata\4f\4fb51aa7001a2244395ddf6a15d37389.info
+>>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
     projectPath: Temp/UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
+=======
+  - path: Snake Bait Board Game\Library\metadata\4f\4fca670cc76b5b145b817a64c3b66d62.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\4f\4fca670cc76b5b145b817a64c3b66d62.info
+    projectPath: Library\metadata\4f\4fca670cc76b5b145b817a64c3b66d62.info
+>>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
     projectPath: Temp/UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
+=======
+  - path: Snake Bait Board Game\Library\metadata\50\504ae362e57fc464b847f1e9fd0e4035.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\50\504ae362e57fc464b847f1e9fd0e4035.info
+    projectPath: Library\metadata\50\504ae362e57fc464b847f1e9fd0e4035.info
+>>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/UnityTempFile-ec7c772d6e09f4bb0b5f6d2bb0f9db90
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/UnityTempFile-ec7c772d6e09f4bb0b5f6d2bb0f9db90
     projectPath: Temp/UnityTempFile-ec7c772d6e09f4bb0b5f6d2bb0f9db90
+=======
+  - path: Snake Bait Board Game\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+>>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/__Backupscenes/0.backup
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
+=======
+  - path: Snake Bait Board Game\Library\metadata\53\5305493000edc7d4ea4302757dc19a99
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\53\5305493000edc7d4ea4302757dc19a99
+    projectPath: Library\metadata\53\5305493000edc7d4ea4302757dc19a99
+>>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/UnityTempFile-780d07a5e14924d269cf7f67c3e25fbe
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/UnityTempFile-780d07a5e14924d269cf7f67c3e25fbe
     projectPath: Temp/UnityTempFile-780d07a5e14924d269cf7f67c3e25fbe
+=======
+  - path: Snake Bait Board Game\Library\metadata\53\53b866620ba77504eaf52cab7dbd95c9
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\53\53b866620ba77504eaf52cab7dbd95c9
+    projectPath: Library\metadata\53\53b866620ba77504eaf52cab7dbd95c9
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\55\55eb086ae18c76e4bb6cc7106d0dd6e2.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\55\55eb086ae18c76e4bb6cc7106d0dd6e2.info
+    projectPath: Library\metadata\55\55eb086ae18c76e4bb6cc7106d0dd6e2.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\55\55f8e7db943fe154ea3b3289fc82f8fa.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\55\55f8e7db943fe154ea3b3289fc82f8fa.info
+    projectPath: Library\metadata\55\55f8e7db943fe154ea3b3289fc82f8fa.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\5b\5b32c2d36abe44540bed74c1f787033b.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\5b\5b32c2d36abe44540bed74c1f787033b.info
+    projectPath: Library\metadata\5b\5b32c2d36abe44540bed74c1f787033b.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\5e\5e6abf300e36c0a4eb43969c3f2172f8
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\5e\5e6abf300e36c0a4eb43969c3f2172f8
+    projectPath: Library\metadata\5e\5e6abf300e36c0a4eb43969c3f2172f8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\5e\5e7872ff51989434dabf7807265ada3c
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\5e\5e7872ff51989434dabf7807265ada3c
+    projectPath: Library\metadata\5e\5e7872ff51989434dabf7807265ada3c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\5e\5eeee4467ee5b6a4884a1ec94812d93e
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\5e\5eeee4467ee5b6a4884a1ec94812d93e
+    projectPath: Library\metadata\5e\5eeee4467ee5b6a4884a1ec94812d93e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\64\64734c9bc6df32149a0c9cb0b18693e1.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\64\64734c9bc6df32149a0c9cb0b18693e1.info
+    projectPath: Library\metadata\64\64734c9bc6df32149a0c9cb0b18693e1.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\68\68baf2864c88f4a43a50f16709de8717
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\68\68baf2864c88f4a43a50f16709de8717
+    projectPath: Library\metadata\68\68baf2864c88f4a43a50f16709de8717
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\6e\6ec706981a919c3489f0b061a40054e2.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\6e\6ec706981a919c3489f0b061a40054e2.info
+    projectPath: Library\metadata\6e\6ec706981a919c3489f0b061a40054e2.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\74\748cdb94b0f517549be55e992f81c46c
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\74\748cdb94b0f517549be55e992f81c46c
+    projectPath: Library\metadata\74\748cdb94b0f517549be55e992f81c46c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\74\74d8c208a0193e14ca6916bea88a2c52.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\74\74d8c208a0193e14ca6916bea88a2c52.info
+    projectPath: Library\metadata\74\74d8c208a0193e14ca6916bea88a2c52.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\74\74e06d99c1657fc4abd33f20685ea9ff.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\74\74e06d99c1657fc4abd33f20685ea9ff.info
+    projectPath: Library\metadata\74\74e06d99c1657fc4abd33f20685ea9ff.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    projectPath: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\79\7983d2ec0427c114a916ae3c4769dc10.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\79\7983d2ec0427c114a916ae3c4769dc10.info
+    projectPath: Library\metadata\79\7983d2ec0427c114a916ae3c4769dc10.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\7b\7bbfb8818476e4641ba3e75f5225eb69.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\7b\7bbfb8818476e4641ba3e75f5225eb69.info
+    projectPath: Library\metadata\7b\7bbfb8818476e4641ba3e75f5225eb69.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\7d\7dd7006c58d8a3148a73aa211d8c13d0.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\7d\7dd7006c58d8a3148a73aa211d8c13d0.info
+    projectPath: Library\metadata\7d\7dd7006c58d8a3148a73aa211d8c13d0.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\7e\7e69f3f28c520ce4d9ab9964b2895b1a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\7e\7e69f3f28c520ce4d9ab9964b2895b1a
+    projectPath: Library\metadata\7e\7e69f3f28c520ce4d9ab9964b2895b1a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\7f\7f3548045a3c0d54199eb7673a50f770
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\7f\7f3548045a3c0d54199eb7673a50f770
+    projectPath: Library\metadata\7f\7f3548045a3c0d54199eb7673a50f770
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\81\81b50d9cb6f3104448ec54c00a80101a.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\81\81b50d9cb6f3104448ec54c00a80101a.info
+    projectPath: Library\metadata\81\81b50d9cb6f3104448ec54c00a80101a.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\83\83a1b0fe6c3dbac44b66f09c82e1d509.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\83\83a1b0fe6c3dbac44b66f09c82e1d509.info
+    projectPath: Library\metadata\83\83a1b0fe6c3dbac44b66f09c82e1d509.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    projectPath: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\88\88d4997d1fa3b604a839c2353d262eb7.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\88\88d4997d1fa3b604a839c2353d262eb7.info
+    projectPath: Library\metadata\88\88d4997d1fa3b604a839c2353d262eb7.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\89\89e1b1c005d29cf4598ea861deb35a80.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\89\89e1b1c005d29cf4598ea861deb35a80.info
+    projectPath: Library\metadata\89\89e1b1c005d29cf4598ea861deb35a80.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\8e\8e6b9842dbb1a5a4887378afab854e63
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\8e\8e6b9842dbb1a5a4887378afab854e63
+    projectPath: Library\metadata\8e\8e6b9842dbb1a5a4887378afab854e63
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    projectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\90\9073305b10a2b2e4597d7666df0364ce
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\90\9073305b10a2b2e4597d7666df0364ce
+    projectPath: Library\metadata\90\9073305b10a2b2e4597d7666df0364ce
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\90\9094c5c777af3f14489e8947748e86e6
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\90\9094c5c777af3f14489e8947748e86e6
+    projectPath: Library\metadata\90\9094c5c777af3f14489e8947748e86e6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\92\92f161029a6d3c54a92d9d283352a135.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\92\92f161029a6d3c54a92d9d283352a135.info
+    projectPath: Library\metadata\92\92f161029a6d3c54a92d9d283352a135.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\93\93d6f74f2ef358e41989d4152b195f88.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\93\93d6f74f2ef358e41989d4152b195f88.info
+    projectPath: Library\metadata\93\93d6f74f2ef358e41989d4152b195f88.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\94\9427f9b77e2276b43b8104cf7a1de4ab
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\94\9427f9b77e2276b43b8104cf7a1de4ab
+    projectPath: Library\metadata\94\9427f9b77e2276b43b8104cf7a1de4ab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\98\986171a47864a9240b0747524acd9f86
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\98\986171a47864a9240b0747524acd9f86
+    projectPath: Library\metadata\98\986171a47864a9240b0747524acd9f86
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\9a\9aef04efaa42dd14a9a13c16d065bbfb
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\9a\9aef04efaa42dd14a9a13c16d065bbfb
+    projectPath: Library\metadata\9a\9aef04efaa42dd14a9a13c16d065bbfb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\9a\9aef04efaa42dd14a9a13c16d065bbfb.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\9a\9aef04efaa42dd14a9a13c16d065bbfb.info
+    projectPath: Library\metadata\9a\9aef04efaa42dd14a9a13c16d065bbfb.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    projectPath: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\9e\9ecb3fe313cb5f7478141eba4a2d54ed
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\9e\9ecb3fe313cb5f7478141eba4a2d54ed
+    projectPath: Library\metadata\9e\9ecb3fe313cb5f7478141eba4a2d54ed
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\9e\9ed9aa864ec2d7f4dad266b9534c6d85.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\9e\9ed9aa864ec2d7f4dad266b9534c6d85.info
+    projectPath: Library\metadata\9e\9ed9aa864ec2d7f4dad266b9534c6d85.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\a9\a9f0e07aefca0cc459134ff9df622278
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\a9\a9f0e07aefca0cc459134ff9df622278
+    projectPath: Library\metadata\a9\a9f0e07aefca0cc459134ff9df622278
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ac\ac5a0a5373b36e049bb7f98f88dbc244.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ac\ac5a0a5373b36e049bb7f98f88dbc244.info
+    projectPath: Library\metadata\ac\ac5a0a5373b36e049bb7f98f88dbc244.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\af\afc255f7c2be52e41973a3d10a2e632d
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\af\afc255f7c2be52e41973a3d10a2e632d
+    projectPath: Library\metadata\af\afc255f7c2be52e41973a3d10a2e632d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\b4\b4818c805fbd01242af31e6101b4ad68.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\b4\b4818c805fbd01242af31e6101b4ad68.info
+    projectPath: Library\metadata\b4\b4818c805fbd01242af31e6101b4ad68.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    projectPath: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ba\ba181bda76b7f6047ba2188e94bf0894
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ba\ba181bda76b7f6047ba2188e94bf0894
+    projectPath: Library\metadata\ba\ba181bda76b7f6047ba2188e94bf0894
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\bf\bf996cd9d4bdfb5409bfd909f2ceeef3
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\bf\bf996cd9d4bdfb5409bfd909f2ceeef3
+    projectPath: Library\metadata\bf\bf996cd9d4bdfb5409bfd909f2ceeef3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\c0\c0357609254b68d4881cab18f04dd4dc
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\c0\c0357609254b68d4881cab18f04dd4dc
+    projectPath: Library\metadata\c0\c0357609254b68d4881cab18f04dd4dc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\c2\c26f698d4eee19e4a8b8f42cd299bab5.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\c2\c26f698d4eee19e4a8b8f42cd299bab5.info
+    projectPath: Library\metadata\c2\c26f698d4eee19e4a8b8f42cd299bab5.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\c3\c30270e41dccf9441ab56d94261bdcfa.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\c3\c30270e41dccf9441ab56d94261bdcfa.info
+    projectPath: Library\metadata\c3\c30270e41dccf9441ab56d94261bdcfa.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\c5\c56cf968fb6a5b6488e709242718845d
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\c5\c56cf968fb6a5b6488e709242718845d
+    projectPath: Library\metadata\c5\c56cf968fb6a5b6488e709242718845d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\c5\c5fb1b5c24460f745be29cc0eb06a58c
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\c5\c5fb1b5c24460f745be29cc0eb06a58c
+    projectPath: Library\metadata\c5\c5fb1b5c24460f745be29cc0eb06a58c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\c6\c64808ff5137c9044a583750e5b0468a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\c6\c64808ff5137c9044a583750e5b0468a
+    projectPath: Library\metadata\c6\c64808ff5137c9044a583750e5b0468a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    projectPath: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\c8\c8d54cdd5913d4e4bb7b655d7d16835b
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\c8\c8d54cdd5913d4e4bb7b655d7d16835b
+    projectPath: Library\metadata\c8\c8d54cdd5913d4e4bb7b655d7d16835b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ca\cafd18099dfc0114896e0a8b277b81b6
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ca\cafd18099dfc0114896e0a8b277b81b6
+    projectPath: Library\metadata\ca\cafd18099dfc0114896e0a8b277b81b6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\d1\d1cf17907700cb647aa3ea423ba38f2e
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\d1\d1cf17907700cb647aa3ea423ba38f2e
+    projectPath: Library\metadata\d1\d1cf17907700cb647aa3ea423ba38f2e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+    projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\db\db7f2cfbf23d6d54ca4e74a9abd55326.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\db\db7f2cfbf23d6d54ca4e74a9abd55326.info
+    projectPath: Library\metadata\db\db7f2cfbf23d6d54ca4e74a9abd55326.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\dc\dc33b7a34d20d5e4e8d54b6867ce81e3
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\dc\dc33b7a34d20d5e4e8d54b6867ce81e3
+    projectPath: Library\metadata\dc\dc33b7a34d20d5e4e8d54b6867ce81e3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\dc\dca26082f9cb439469295791d9f76fe5
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\dc\dca26082f9cb439469295791d9f76fe5
+    projectPath: Library\metadata\dc\dca26082f9cb439469295791d9f76fe5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\dd\dd0e4b969aa70504382a89d2f208ae6c
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\dd\dd0e4b969aa70504382a89d2f208ae6c
+    projectPath: Library\metadata\dd\dd0e4b969aa70504382a89d2f208ae6c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\e0\e00d5a9a0944134448432ccacf221b95.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\e0\e00d5a9a0944134448432ccacf221b95.info
+    projectPath: Library\metadata\e0\e00d5a9a0944134448432ccacf221b95.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\e0\e077dc203e948b740859c1c0ca8b9691.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\e0\e077dc203e948b740859c1c0ca8b9691.info
+    projectPath: Library\metadata\e0\e077dc203e948b740859c1c0ca8b9691.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\e1\e177c46c2a091564d88df2c2ca9dcf97.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\e1\e177c46c2a091564d88df2c2ca9dcf97.info
+    projectPath: Library\metadata\e1\e177c46c2a091564d88df2c2ca9dcf97.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\e2\e2da38ead8f8238449c54a1ef49e080f.info
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\e2\e2da38ead8f8238449c54a1ef49e080f.info
+    projectPath: Library\metadata\e2\e2da38ead8f8238449c54a1ef49e080f.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\e4\e4769cb37968ea948a763a9a89f9e583
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\e4\e4769cb37968ea948a763a9a89f9e583
+    projectPath: Library\metadata\e4\e4769cb37968ea948a763a9a89f9e583
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\e5\e598c4a80825a064a9c38406b7f35bff
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\e5\e598c4a80825a064a9c38406b7f35bff
+    projectPath: Library\metadata\e5\e598c4a80825a064a9c38406b7f35bff
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\e6\e6e9d20624a23da4c8b2b6fb7608bb9a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\e6\e6e9d20624a23da4c8b2b6fb7608bb9a
+    projectPath: Library\metadata\e6\e6e9d20624a23da4c8b2b6fb7608bb9a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ea\eaa12d191e718c945ac55da73fa469db
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ea\eaa12d191e718c945ac55da73fa469db
+    projectPath: Library\metadata\ea\eaa12d191e718c945ac55da73fa469db
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\eb\eba5a4db2591a5844aea5f6f3ad8548e
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\eb\eba5a4db2591a5844aea5f6f3ad8548e
+    projectPath: Library\metadata\eb\eba5a4db2591a5844aea5f6f3ad8548e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ed\edfcf888cd11d9245b91d2883049a57e
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ed\edfcf888cd11d9245b91d2883049a57e
+    projectPath: Library\metadata\ed\edfcf888cd11d9245b91d2883049a57e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\ee\eee523916d5b20c47841622e89de33cf
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\ee\eee523916d5b20c47841622e89de33cf
+    projectPath: Library\metadata\ee\eee523916d5b20c47841622e89de33cf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\f3\f3eef864a10f51045a7530e2afe7c179
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\f3\f3eef864a10f51045a7530e2afe7c179
+    projectPath: Library\metadata\f3\f3eef864a10f51045a7530e2afe7c179
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\f4\f499ff45b9a3d0840a0df48d01b2877b
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\f4\f499ff45b9a3d0840a0df48d01b2877b
+    projectPath: Library\metadata\f4\f499ff45b9a3d0840a0df48d01b2877b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Temp\UnityLockfile
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Snake Bait Board Game\Temp\UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
+    projectPath: Temp\UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Snake Bait Board Game\Temp\UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
+    projectPath: Temp\UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Snake Bait Board Game\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\0\0158449e8099925e523bb19c638fa30c.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\0\0158449e8099925e523bb19c638fa30c.bin
+    projectPath: Library\ShaderCache\0\0158449e8099925e523bb19c638fa30c.bin
     originalPath: 
     status: 1
     staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\0\08ccd7e2cc90bdbcb581b88f03d35874.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\0\08ccd7e2cc90bdbcb581b88f03d35874.bin
+    projectPath: Library\ShaderCache\0\08ccd7e2cc90bdbcb581b88f03d35874.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\0\0904d2a86836401c1c3fd05b53a8273a.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\0\0904d2a86836401c1c3fd05b53a8273a.bin
+    projectPath: Library\ShaderCache\0\0904d2a86836401c1c3fd05b53a8273a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\0\0f1ab112998945f190ec4222ee08e8eb.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\0\0f1ab112998945f190ec4222ee08e8eb.bin
+    projectPath: Library\ShaderCache\0\0f1ab112998945f190ec4222ee08e8eb.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\1\1afcc282597c4d04b9bd84d3a56a16c0.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\1\1afcc282597c4d04b9bd84d3a56a16c0.bin
+    projectPath: Library\ShaderCache\1\1afcc282597c4d04b9bd84d3a56a16c0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\2\2757ce74c5aea55ad6ef0106ffb7d6c8.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\2\2757ce74c5aea55ad6ef0106ffb7d6c8.bin
+    projectPath: Library\ShaderCache\2\2757ce74c5aea55ad6ef0106ffb7d6c8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\3\3605d2182084417b0e045c531acb7327.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\3\3605d2182084417b0e045c531acb7327.bin
+    projectPath: Library\ShaderCache\3\3605d2182084417b0e045c531acb7327.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\3\3e8c78260a87ba094a492385473ece92.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\3\3e8c78260a87ba094a492385473ece92.bin
+    projectPath: Library\ShaderCache\3\3e8c78260a87ba094a492385473ece92.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\4\43731f87282409b4646854a3f9c32115.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\4\43731f87282409b4646854a3f9c32115.bin
+    projectPath: Library\ShaderCache\4\43731f87282409b4646854a3f9c32115.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\4\443ca77daba9718c91fb49e05dbe5ce1.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\4\443ca77daba9718c91fb49e05dbe5ce1.bin
+    projectPath: Library\ShaderCache\4\443ca77daba9718c91fb49e05dbe5ce1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\4\45c4dd88ca8b6d026a19e3e5c03e4ace.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\4\45c4dd88ca8b6d026a19e3e5c03e4ace.bin
+    projectPath: Library\ShaderCache\4\45c4dd88ca8b6d026a19e3e5c03e4ace.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\4\46da8d4a27447eca1c3ec6ecfe3120e8.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\4\46da8d4a27447eca1c3ec6ecfe3120e8.bin
+    projectPath: Library\ShaderCache\4\46da8d4a27447eca1c3ec6ecfe3120e8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\5\59c8281eb3d8ec3b318651247eb438ca.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\5\59c8281eb3d8ec3b318651247eb438ca.bin
+    projectPath: Library\ShaderCache\5\59c8281eb3d8ec3b318651247eb438ca.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\5\5a21a8d6a4cf1dd3104c0ca17601142a.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\5\5a21a8d6a4cf1dd3104c0ca17601142a.bin
+    projectPath: Library\ShaderCache\5\5a21a8d6a4cf1dd3104c0ca17601142a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\5\5b0c75f5f8db12251d341fd5add26998.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\5\5b0c75f5f8db12251d341fd5add26998.bin
+    projectPath: Library\ShaderCache\5\5b0c75f5f8db12251d341fd5add26998.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\5\5d54d7dbc5287734375cde701aef06de.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\5\5d54d7dbc5287734375cde701aef06de.bin
+    projectPath: Library\ShaderCache\5\5d54d7dbc5287734375cde701aef06de.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\6\61b868904a32263935d7474b9fcc84c8.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\6\61b868904a32263935d7474b9fcc84c8.bin
+    projectPath: Library\ShaderCache\6\61b868904a32263935d7474b9fcc84c8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\6\643af88b56139242959a51dcc53a0719.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\6\643af88b56139242959a51dcc53a0719.bin
+    projectPath: Library\ShaderCache\6\643af88b56139242959a51dcc53a0719.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\7\7308b456965b84cfedf4cb789bd6388d.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\7\7308b456965b84cfedf4cb789bd6388d.bin
+    projectPath: Library\ShaderCache\7\7308b456965b84cfedf4cb789bd6388d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\7\76fd1c1dfde81120fe4cf502ee2a67fa.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\7\76fd1c1dfde81120fe4cf502ee2a67fa.bin
+    projectPath: Library\ShaderCache\7\76fd1c1dfde81120fe4cf502ee2a67fa.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\7\78bd51cc2ddb11e04e9fc5bda386e09d.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\7\78bd51cc2ddb11e04e9fc5bda386e09d.bin
+    projectPath: Library\ShaderCache\7\78bd51cc2ddb11e04e9fc5bda386e09d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\8\82e308745c2bbb5587cc63bbee2ba188.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\8\82e308745c2bbb5587cc63bbee2ba188.bin
+    projectPath: Library\ShaderCache\8\82e308745c2bbb5587cc63bbee2ba188.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\8\8d5f2c1a5058794d3efd526d6c2b4593.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\8\8d5f2c1a5058794d3efd526d6c2b4593.bin
+    projectPath: Library\ShaderCache\8\8d5f2c1a5058794d3efd526d6c2b4593.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\9\92e89ea4c268822db8b7e4816c3994b3.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\9\92e89ea4c268822db8b7e4816c3994b3.bin
+    projectPath: Library\ShaderCache\9\92e89ea4c268822db8b7e4816c3994b3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\9\9fdd7158e949783b5ee66ccd2becb457.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\9\9fdd7158e949783b5ee66ccd2becb457.bin
+    projectPath: Library\ShaderCache\9\9fdd7158e949783b5ee66ccd2becb457.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\a\a2a65fe668434483c1c49283d476f2d2.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\a\a2a65fe668434483c1c49283d476f2d2.bin
+    projectPath: Library\ShaderCache\a\a2a65fe668434483c1c49283d476f2d2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\a\a77903e4cd113b65822fb2f8847cb3e7.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\a\a77903e4cd113b65822fb2f8847cb3e7.bin
+    projectPath: Library\ShaderCache\a\a77903e4cd113b65822fb2f8847cb3e7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\a\ae2082180d5839d4889903c99fd5cd1f.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\a\ae2082180d5839d4889903c99fd5cd1f.bin
+    projectPath: Library\ShaderCache\a\ae2082180d5839d4889903c99fd5cd1f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\a\afc458c7da1cddc604ccf381fe3b879b.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\a\afc458c7da1cddc604ccf381fe3b879b.bin
+    projectPath: Library\ShaderCache\a\afc458c7da1cddc604ccf381fe3b879b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\b\b036cf1e90325e12941a08163aadedea.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\b\b036cf1e90325e12941a08163aadedea.bin
+    projectPath: Library\ShaderCache\b\b036cf1e90325e12941a08163aadedea.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\b\b6afd71066647c449edcace9a2ad46e5.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\b\b6afd71066647c449edcace9a2ad46e5.bin
+    projectPath: Library\ShaderCache\b\b6afd71066647c449edcace9a2ad46e5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\c\c1654cd74c10e1c22724b51b829b3c41.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\c\c1654cd74c10e1c22724b51b829b3c41.bin
+    projectPath: Library\ShaderCache\c\c1654cd74c10e1c22724b51b829b3c41.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\c\ce8c0d21d590fd57d1c937820570941e.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\c\ce8c0d21d590fd57d1c937820570941e.bin
+    projectPath: Library\ShaderCache\c\ce8c0d21d590fd57d1c937820570941e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\d\d71e8048f9f159b112cdd7295009a057.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\d\d71e8048f9f159b112cdd7295009a057.bin
+    projectPath: Library\ShaderCache\d\d71e8048f9f159b112cdd7295009a057.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\d\dc389ef78228faf60b10a08fa7f1ac60.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\d\dc389ef78228faf60b10a08fa7f1ac60.bin
+    projectPath: Library\ShaderCache\d\dc389ef78228faf60b10a08fa7f1ac60.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\e\e6aabacd68cb05160b62840e86be7709.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\e\e6aabacd68cb05160b62840e86be7709.bin
+    projectPath: Library\ShaderCache\e\e6aabacd68cb05160b62840e86be7709.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\e\e987c50f986568ad012d6c41d321e782.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\e\e987c50f986568ad012d6c41d321e782.bin
+    projectPath: Library\ShaderCache\e\e987c50f986568ad012d6c41d321e782.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Library\ShaderCache\e\ea9e667087f990b7a489aa25927f747c.bin
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\ShaderCache\e\ea9e667087f990b7a489aa25927f747c.bin
+    projectPath: Library\ShaderCache\e\ea9e667087f990b7a489aa25927f747c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Temp\UnityTempFile-2ad88e1af92b61a4396bdeaa75c391ac
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\UnityTempFile-2ad88e1af92b61a4396bdeaa75c391ac
+    projectPath: Temp\UnityTempFile-2ad88e1af92b61a4396bdeaa75c391ac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Temp\UnityTempFile-51a10283e00626e4db3ebc4922b49315
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\UnityTempFile-51a10283e00626e4db3ebc4922b49315
+    projectPath: Temp\UnityTempFile-51a10283e00626e4db3ebc4922b49315
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Temp\UnityTempFile-e0c7454b4598cf248bb7e52671cfef6a
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\UnityTempFile-e0c7454b4598cf248bb7e52671cfef6a
+    projectPath: Temp\UnityTempFile-e0c7454b4598cf248bb7e52671cfef6a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Snake Bait Board Game\Temp\UnityTempFile-faafaa3685012d647aa390597589a376
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Temp\UnityTempFile-faafaa3685012d647aa390597589a376
+    projectPath: Temp\UnityTempFile-faafaa3685012d647aa390597589a376
+>>>>>>> parent of b875227... commit
+    originalPath: 
+    status: 1
+    staged: 0
+>>>>>>> 4279126e7c50171de27f1638e7a8327cef520f30
