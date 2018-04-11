@@ -13,6 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T12:51:49.0498370-04:00
   lastVerifiedAtString: 2018-04-11T12:51:49.0498370-04:00
   initializedAtString: 2018-04-11T12:51:49.0498370-04:00
@@ -11966,6 +11967,12 @@ MonoBehaviour:
       originalPath: 
       status: 4
       staged: 0
+=======
+  lastUpdatedAtString: 2018-04-11T12:31:23.7293810-04:00
+  lastVerifiedAtString: 2018-04-11T12:31:23.7293810-04:00
+  initializedAtString: 2018-04-11T12:29:48.5739120-04:00
+  log:
+>>>>>>> parent of 1c66233... commit from class 2
   - commitID: f06aed205feaf9a28554fa2f2c4bfcc875eabf47
     mergeA: 96380c9ba1b6bc24453f558e639b9df020a7bf72
     mergeB: f086d89a9d9abcbddc2ce0d3d0443b6da22c2a53
@@ -11975,14 +11982,20 @@ MonoBehaviour:
     commitName: GitHub
     summary: 'Merge pull request #2 from ThatGingeKid/franz-branch'
 <<<<<<< HEAD
+<<<<<<< HEAD
     description: "Merge pull request #2 from ThatGingeKid/franz-branch\r\n\r\nFixed
       paths"
 =======
+=======
+>>>>>>> parent of 1c66233... commit from class 2
     description: 'Merge pull request #2 from ThatGingeKid/franz-branch
 
 
       Fixed paths'
+<<<<<<< HEAD
 >>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
+=======
+>>>>>>> parent of 1c66233... commit from class 2
     timeString: 2018-04-11T10:47:39.0000000-04:00
     commitTimeString: 2018-04-11T10:47:39.0000000-04:00
     changes: []
@@ -11998,6 +12011,7 @@ MonoBehaviour:
     timeString: 2018-04-11T10:46:49.0000000-04:00
     commitTimeString: 2018-04-11T10:46:49.0000000-04:00
     changes:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - path: Snake Bait Board Game\Assets\GameBoard\Rolling.cs
       fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
@@ -12186,10 +12200,13 @@ MonoBehaviour:
         Board Game\Temp\UnityTempFile-e5157b2d73d614166b0499edfff0a714
       projectPath: Temp\UnityTempFile-e5157b2d73d614166b0499edfff0a714
 =======
+=======
+>>>>>>> parent of 1c66233... commit from class 2
     - path: Snake Bait Board Game/Assets/GameBoard/Rolling.cs
       fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
         Bait Board Game/Assets/GameBoard/Rolling.cs
       projectPath: Assets/GameBoard/Rolling.cs
+<<<<<<< HEAD
       originalPath: 
       status: 3
       staged: 0
@@ -14188,6 +14205,8 @@ MonoBehaviour:
       fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
         Board Game\Assets\roll.cs.meta
       projectPath: Assets\roll.cs.meta
+=======
+>>>>>>> parent of 1c66233... commit from class 2
       originalPath: 
       status: 4
       staged: 0

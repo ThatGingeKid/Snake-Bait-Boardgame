@@ -13,6 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T12:51:19.0178420-04:00
   lastVerifiedAtString: 2018-04-11T12:51:49.1711430-04:00
   initializedAtString: 2018-04-11T12:51:48.7134150-04:00
@@ -30,7 +31,11 @@ MonoBehaviour:
 =======
   lastUpdatedAtString: 2018-04-11T12:32:39.4705810-04:00
   lastVerifiedAtString: 2018-04-11T12:32:59.5073810-04:00
+=======
+  lastUpdatedAtString: 2018-04-11T11:26:53.4176680-04:00
+  lastVerifiedAtString: 2018-04-11T12:31:51.0882840-04:00
+>>>>>>> parent of 1c66233... commit from class 2
   initializedAtString: 2018-04-11T12:29:48.2969620-04:00
-  ahead: 1
+  ahead: 0
   behind: 2
 >>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
