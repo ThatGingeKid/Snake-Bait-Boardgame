@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T12:51:49.1583620-04:00
   lastVerifiedAtString: 2018-04-11T12:51:49.1691090-04:00
   initializedAtString: 2018-04-11T12:51:49.1583620-04:00
@@ -31,6 +32,17 @@ MonoBehaviour:
   lastVerifiedAtString: 2018-04-11T12:32:46.5516260-04:00
   initializedAtString: 2018-04-11T12:29:48.6290630-04:00
   entries:
+=======
+  lastUpdatedAtString: 2018-04-11T11:32:00.3063270-04:00
+  lastVerifiedAtString: 2018-04-11T11:32:00.3063270-04:00
+  initializedAtString: 2018-04-11T11:32:00.3063270-04:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-04-11T12:32:40.4683770-04:00
+  lastVerifiedAtString: 2018-04-11T12:32:46.5516260-04:00
+  initializedAtString: 2018-04-11T12:29:48.6290630-04:00
+  entries:
+>>>>>>> parent of b875227... commit
 =======
   lastUpdatedAtString: 2018-04-11T11:21:59.4731730-04:00
   lastVerifiedAtString: 2018-04-11T11:22:54.6639990-04:00
@@ -76,6 +88,9 @@ MonoBehaviour:
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\assetDatabase3
     projectPath: Library\assetDatabase3
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
@@ -96,11 +111,14 @@ MonoBehaviour:
     status: 3
     staged: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Library/EditorInstance.json
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
 =======
+=======
+>>>>>>> parent of b875227... commit
   - path: Snake Bait Board Game\Library\gfu\cache\gitlog.yaml
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\gfu\cache\gitlog.yaml
@@ -135,6 +153,9 @@ MonoBehaviour:
       Bait Board Game/Library/gfu/cache/gituser.yaml
     projectPath: Library/gfu/cache/gituser.yaml
 >>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
     originalPath: 
     status: 3
@@ -182,11 +203,14 @@ MonoBehaviour:
     status: 3
     staged: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
 =======
+=======
+>>>>>>> parent of b875227... commit
   - path: Snake Bait Board Game\Library\metadata\00\00000000000000006000000000000000
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\metadata\00\00000000000000006000000000000000
@@ -555,72 +579,102 @@ MonoBehaviour:
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\metadata\4f\4fb51aa7001a2244395ddf6a15d37389.info
     projectPath: Library\metadata\4f\4fb51aa7001a2244395ddf6a15d37389.info
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
     projectPath: Temp/UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
 =======
+=======
+>>>>>>> parent of b875227... commit
   - path: Snake Bait Board Game\Library\metadata\4f\4fca670cc76b5b145b817a64c3b66d62.info
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\metadata\4f\4fca670cc76b5b145b817a64c3b66d62.info
     projectPath: Library\metadata\4f\4fca670cc76b5b145b817a64c3b66d62.info
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
     projectPath: Temp/UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
 =======
+=======
+>>>>>>> parent of b875227... commit
   - path: Snake Bait Board Game\Library\metadata\50\504ae362e57fc464b847f1e9fd0e4035.info
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\metadata\50\504ae362e57fc464b847f1e9fd0e4035.info
     projectPath: Library\metadata\50\504ae362e57fc464b847f1e9fd0e4035.info
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/UnityTempFile-ec7c772d6e09f4bb0b5f6d2bb0f9db90
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/UnityTempFile-ec7c772d6e09f4bb0b5f6d2bb0f9db90
     projectPath: Temp/UnityTempFile-ec7c772d6e09f4bb0b5f6d2bb0f9db90
 =======
+=======
+>>>>>>> parent of b875227... commit
   - path: Snake Bait Board Game\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
     projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/__Backupscenes/0.backup
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
 =======
+=======
+>>>>>>> parent of b875227... commit
   - path: Snake Bait Board Game\Library\metadata\53\5305493000edc7d4ea4302757dc19a99
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\metadata\53\5305493000edc7d4ea4302757dc19a99
     projectPath: Library\metadata\53\5305493000edc7d4ea4302757dc19a99
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: Snake Bait Board Game/Temp/UnityTempFile-780d07a5e14924d269cf7f67c3e25fbe
     fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
       Bait Board Game/Temp/UnityTempFile-780d07a5e14924d269cf7f67c3e25fbe
     projectPath: Temp/UnityTempFile-780d07a5e14924d269cf7f67c3e25fbe
 =======
+=======
+>>>>>>> parent of b875227... commit
   - path: Snake Bait Board Game\Library\metadata\53\53b866620ba77504eaf52cab7dbd95c9
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\metadata\53\53b866620ba77504eaf52cab7dbd95c9
@@ -1626,6 +1680,9 @@ MonoBehaviour:
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Temp\UnityTempFile-faafaa3685012d647aa390597589a376
     projectPath: Temp\UnityTempFile-faafaa3685012d647aa390597589a376
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
     originalPath: 
     status: 1

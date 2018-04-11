@@ -12,11 +12,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
   lastVerifiedAtString: 0001-01-01T00:00:00.0000000+00:00
   firstInitializedAtString: 0001-01-01T00:00:00.0000000+00:00
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of b875227... commit
   lastUpdatedAtString: 2018-04-11T11:30:44.7600268-04:00
   lastVerifiedAtString: 2018-04-11T11:30:44.7600268-04:00
   firstInitializedAtString: 2018-04-11T11:30:44.7600268-04:00
@@ -25,6 +28,9 @@ MonoBehaviour:
   lastVerifiedAtString: 2018-04-11T11:26:53.4068550-04:00
   firstInitializedAtString: 2018-04-11T10:58:58.9742510-04:00
 >>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
   gitRemote:
     name: 

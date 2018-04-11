@@ -12,11 +12,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T12:51:48.1272430-04:00
   lastVerifiedAtString: 2018-04-11T12:51:48.1323120-04:00
   initializedAtString: 2018-04-11T12:51:43.1182630-04:00
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of b875227... commit
   lastUpdatedAtString: 2018-04-11T11:30:48.9320338-04:00
   lastVerifiedAtString: 2018-04-11T11:30:48.9420338-04:00
   initializedAtString: 2018-04-11T11:30:44.6400266-04:00
@@ -25,6 +28,9 @@ MonoBehaviour:
   lastVerifiedAtString: 2018-04-11T12:32:59.5005390-04:00
   initializedAtString: 2018-04-11T12:29:47.8546440-04:00
 >>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
   gitConfigBranch:
     name: master
@@ -50,6 +56,12 @@ MonoBehaviour:
     tracking: '[None]'
     isActive: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  - name: origin/franz-branch
+    tracking: '[None]'
+    isActive: 0
+>>>>>>> parent of b875227... commit
 =======
   - name: origin/franz-branch
     tracking: '[None]'
@@ -86,6 +98,10 @@ MonoBehaviour:
 >>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
       - HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      - franz-branch
+>>>>>>> parent of b875227... commit
 =======
       - franz-branch
 >>>>>>> parent of b875227... commit
@@ -105,11 +121,17 @@ MonoBehaviour:
           name: origin
           url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of b875227... commit
       - name: franz-branch
         remote:
           name: origin
           url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
+<<<<<<< HEAD
+>>>>>>> parent of b875227... commit
+=======
 >>>>>>> parent of b875227... commit
       - name: master
         remote:
