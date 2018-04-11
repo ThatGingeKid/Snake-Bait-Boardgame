@@ -15,6 +15,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T12:51:48.1272430-04:00
   lastVerifiedAtString: 2018-04-11T12:51:48.1323120-04:00
   initializedAtString: 2018-04-11T12:51:43.1182630-04:00
@@ -34,6 +35,11 @@ MonoBehaviour:
 >>>>>>> parent of b875227... commit
 =======
 >>>>>>> parent of b875227... commit
+=======
+  lastUpdatedAtString: 2018-04-11T11:30:48.9320338-04:00
+  lastVerifiedAtString: 2018-04-11T11:30:48.9420338-04:00
+  initializedAtString: 2018-04-11T11:30:44.6400266-04:00
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
 =======
   lastUpdatedAtString: 2018-04-11T11:30:48.9320338-04:00
   lastVerifiedAtString: 2018-04-11T11:30:48.9420338-04:00
@@ -67,6 +73,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   - name: origin/franz-branch
     tracking: '[None]'
@@ -77,6 +84,8 @@ MonoBehaviour:
     tracking: '[None]'
     isActive: 0
 >>>>>>> parent of b875227... commit
+=======
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
 =======
 >>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
 =======
@@ -105,9 +114,9 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-<<<<<<< HEAD
       - franz-branch
       - HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -122,6 +131,8 @@ MonoBehaviour:
 =======
       - franz-branch
       - HEAD
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
+=======
 >>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       - master
     subKeyValues:
@@ -138,6 +149,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of b875227... commit
@@ -149,6 +161,8 @@ MonoBehaviour:
 >>>>>>> parent of b875227... commit
 =======
 >>>>>>> parent of b875227... commit
+=======
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
 =======
 >>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
 =======
