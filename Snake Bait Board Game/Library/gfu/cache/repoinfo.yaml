@@ -13,6 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
   lastVerifiedAtString: 0001-01-01T00:00:00.0000000+00:00
   firstInitializedAtString: 0001-01-01T00:00:00.0000000+00:00
@@ -32,6 +33,11 @@ MonoBehaviour:
 >>>>>>> parent of b875227... commit
 =======
 >>>>>>> parent of b875227... commit
+=======
+  lastUpdatedAtString: 2018-04-11T11:30:44.7600268-04:00
+  lastVerifiedAtString: 2018-04-11T11:30:44.7600268-04:00
+  firstInitializedAtString: 2018-04-11T11:30:44.7600268-04:00
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
   gitRemote:
     name: 
     url: 
