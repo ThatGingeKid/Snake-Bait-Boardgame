@@ -11,54 +11,18 @@ MonoBehaviour:
   m_Script: {fileID: 1109517887, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
-  lastVerifiedAtString: 0001-01-01T00:00:00.0000000+00:00
-  firstInitializedAtString: 0001-01-01T00:00:00.0000000+00:00
-=======
-<<<<<<< HEAD
-=======
->>>>>>> parent of b875227... commit
-  lastUpdatedAtString: 2018-04-11T11:30:44.7600268-04:00
-  lastVerifiedAtString: 2018-04-11T11:30:44.7600268-04:00
-  firstInitializedAtString: 2018-04-11T11:30:44.7600268-04:00
-=======
-  lastUpdatedAtString: 2018-04-11T11:26:53.4068550-04:00
-  lastVerifiedAtString: 2018-04-11T11:26:53.4068550-04:00
-  firstInitializedAtString: 2018-04-11T10:58:58.9742510-04:00
->>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
-<<<<<<< HEAD
->>>>>>> parent of b875227... commit
-=======
->>>>>>> parent of b875227... commit
-=======
-  lastUpdatedAtString: 2018-04-11T11:30:44.7600268-04:00
-  lastVerifiedAtString: 2018-04-11T11:30:44.7600268-04:00
-  firstInitializedAtString: 2018-04-11T11:30:44.7600268-04:00
->>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
-=======
-  lastUpdatedAtString: 2018-04-11T11:30:44.7600268-04:00
-  lastVerifiedAtString: 2018-04-11T11:30:44.7600268-04:00
-  firstInitializedAtString: 2018-04-11T11:30:44.7600268-04:00
->>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
-=======
-  lastUpdatedAtString: 2018-04-11T11:30:44.7600268-04:00
-  lastVerifiedAtString: 2018-04-11T11:30:44.7600268-04:00
-  firstInitializedAtString: 2018-04-11T11:30:44.7600268-04:00
->>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
+  lastUpdatedAtString: 2018-04-11T13:21:06.6955380-04:00
+  lastVerifiedAtString: 2018-04-11T13:21:06.6955380-04:00
+  firstInitializedAtString: 2018-04-11T13:21:06.6874420-04:00
   gitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   gitBranch:
-    name: 
-    tracking: 
+    name: master
+    tracking: origin/master
     isActive: 0
