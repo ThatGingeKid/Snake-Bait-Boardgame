@@ -11,25 +11,25 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-11T10:21:19.7046370-04:00
-  lastVerifiedAtString: 2018-04-11T10:21:19.7070600-04:00
-  initializedAtString: 2018-04-11T10:19:09.0484470-04:00
+  lastUpdatedAtString: 2018-04-11T11:30:48.9320338-04:00
+  lastVerifiedAtString: 2018-04-11T11:30:48.9420338-04:00
+  initializedAtString: 2018-04-11T11:30:44.6400266-04:00
   gitConfigBranch:
-    name: franz-branch
+    name: master
     remote:
-      name: 
-      url: 
+      name: origin
+      url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
   gitConfigRemote:
     name: origin
     url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
   localBranches:
-  - name: franz-branch
-    tracking: '[None]'
-    isActive: 1
   - name: master
     tracking: origin/master
-    isActive: 0
+    isActive: 1
   remoteBranches:
+  - name: origin/franz-branch
+    tracking: '[None]'
+    isActive: 0
   - name: origin/HEAD
     tracking: '[None]'
     isActive: 0
@@ -46,13 +46,8 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - franz-branch
     - master
     values:
-    - name: franz-branch
-      remote:
-        name: 
-        url: 
     - name: master
       remote:
         name: origin
@@ -62,10 +57,15 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - franz-branch
       - HEAD
       - master
     subKeyValues:
     - Values:
+      - name: franz-branch
+        remote:
+          name: origin
+          url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
       - name: HEAD
         remote:
           name: origin
