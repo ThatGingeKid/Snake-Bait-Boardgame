@@ -21,10 +21,8 @@ public class Rolling : MonoBehaviour {
     public void RollTheDice()
     {
         //you roll two dice
-        for (int i = 0; i < DiceValues.Length; i++)
-        {
-            DiceValues[i] = Random.Range(1, 7);
-        }
+        DiceValues[0] = Random.Range(1, 7);
+		DiceValues[1] = Random.Range(1, 7);
 
         Debug.Log("Rolled a " + DiceValues[0] + " and a " + DiceValues[1]);
 
