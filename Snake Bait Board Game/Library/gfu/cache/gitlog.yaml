@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T12:47:05.7984290-04:00
   lastVerifiedAtString: 2018-04-11T12:47:05.7984290-04:00
   initializedAtString: 2018-04-11T12:47:05.7984290-04:00
@@ -13280,6 +13281,13 @@ MonoBehaviour:
     commitTimeString: 2018-04-11T10:28:37.0000000-04:00
     changes: []
   - commitID: 52ca60698c7288c266a26d716f8b356d2702bf16
+=======
+  lastUpdatedAtString: 2018-04-11T10:21:20.3932930-04:00
+  lastVerifiedAtString: 2018-04-11T10:21:20.3932930-04:00
+  initializedAtString: 2018-04-11T10:19:09.1525680-04:00
+  log:
+  - commitID: ae39ccab2ecb32422cf9c3fb5e63c30fb52efa46
+>>>>>>> parent of 878d09f... trying to merge WHY
     mergeA: 
     mergeB: 
     authorName: Woodwing
@@ -13291,8 +13299,13 @@ MonoBehaviour:
 
 
       Test'
+<<<<<<< HEAD
     timeString: 2018-04-11T10:25:49.0000000-04:00
     commitTimeString: 2018-04-11T10:25:49.0000000-04:00
+=======
+    timeString: 2018-04-11T10:21:18.0000000-04:00
+    commitTimeString: 2018-04-11T10:21:18.0000000-04:00
+>>>>>>> parent of 878d09f... trying to merge WHY
     changes:
     - path: .DS_Store
       fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/.DS_Store
@@ -14173,6 +14186,7 @@ MonoBehaviour:
       fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
         Bait Board Game/Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5
       projectPath: Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5
+<<<<<<< HEAD
       originalPath: 
       status: 5
       staged: 0
@@ -14183,6 +14197,18 @@ MonoBehaviour:
       originalPath: 
       status: 5
       staged: 0
+=======
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5.info
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5.info
+      projectPath: Library/metadata/2f/2fe3476eabbbb6c448e6b55a2cc471f5.info
+      originalPath: 
+      status: 5
+      staged: 0
+>>>>>>> parent of 878d09f... trying to merge WHY
     - path: Snake Bait Board Game/Library/metadata/32/32188fd89022c154c81befa2f0e00be0
       fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
         Bait Board Game/Library/metadata/32/32188fd89022c154c81befa2f0e00be0
@@ -19406,19 +19432,33 @@ MonoBehaviour:
       status: 4
       staged: 0
     - path: Snake Bait Board Game/Assets/TextMesh Pro/Examples & Extras/Fonts/LiberationSans
+<<<<<<< HEAD
         - OFL.txt
       fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
         Bait Board Game/Assets/TextMesh Pro/Examples & Extras/Fonts/LiberationSans
         - OFL.txt
+=======
+        - OFL.txt
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Assets/TextMesh Pro/Examples & Extras/Fonts/LiberationSans
+        - OFL.txt
+>>>>>>> parent of 878d09f... trying to merge WHY
       projectPath: Assets/TextMesh Pro/Examples & Extras/Fonts/LiberationSans - OFL.txt
       originalPath: 
       status: 4
       staged: 0
     - path: Snake Bait Board Game/Assets/TextMesh Pro/Examples & Extras/Fonts/LiberationSans
+<<<<<<< HEAD
         - OFL.txt.meta
       fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
         Bait Board Game/Assets/TextMesh Pro/Examples & Extras/Fonts/LiberationSans
         - OFL.txt.meta
+=======
+        - OFL.txt.meta
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Assets/TextMesh Pro/Examples & Extras/Fonts/LiberationSans
+        - OFL.txt.meta
+>>>>>>> parent of 878d09f... trying to merge WHY
       projectPath: Assets/TextMesh Pro/Examples & Extras/Fonts/LiberationSans - OFL.txt.meta
       originalPath: 
       status: 4

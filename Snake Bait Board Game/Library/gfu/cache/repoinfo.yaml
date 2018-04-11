@@ -11,9 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: 1109517887, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T12:45:07.5007150-04:00
   lastVerifiedAtString: 2018-04-11T12:45:07.5007150-04:00
   firstInitializedAtString: 2018-04-11T12:45:07.4915080-04:00
+=======
+  lastUpdatedAtString: 2018-04-11T10:19:09.1249710-04:00
+  lastVerifiedAtString: 2018-04-11T10:19:09.1249710-04:00
+  firstInitializedAtString: 2018-04-11T10:19:09.1174620-04:00
+>>>>>>> parent of 878d09f... trying to merge WHY
   gitRemote:
     name: origin
     url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
@@ -23,6 +29,6 @@ MonoBehaviour:
     function: 0
     token: 
   gitBranch:
-    name: master
-    tracking: origin/master
+    name: franz-branch
+    tracking: '[None]'
     isActive: 0
