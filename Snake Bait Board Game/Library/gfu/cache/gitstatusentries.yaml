@@ -15,6 +15,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T12:51:49.1583620-04:00
   lastVerifiedAtString: 2018-04-11T12:51:49.1691090-04:00
   initializedAtString: 2018-04-11T12:51:49.1583620-04:00
@@ -50,6 +51,11 @@ MonoBehaviour:
   lastVerifiedAtString: 2018-04-11T11:22:54.6639990-04:00
   initializedAtString: 2018-04-11T11:00:05.1824170-04:00
 >>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
+=======
+  lastUpdatedAtString: 2018-04-11T11:32:00.3063270-04:00
+  lastVerifiedAtString: 2018-04-11T11:32:00.3063270-04:00
+  initializedAtString: 2018-04-11T11:32:00.3063270-04:00
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
 =======
   lastUpdatedAtString: 2018-04-11T11:32:00.3063270-04:00
   lastVerifiedAtString: 2018-04-11T11:32:00.3063270-04:00
@@ -106,6 +112,7 @@ MonoBehaviour:
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> 4279126e7c50171de27f1638e7a8327cef520f30
@@ -417,6 +424,8 @@ MonoBehaviour:
 >>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
 =======
 >>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
+=======
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     originalPath: 
     status: 3
     staged: 0
@@ -455,6 +464,7 @@ MonoBehaviour:
       Game\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -467,6 +477,8 @@ MonoBehaviour:
 >>>>>>> parent of b875227... commit
 =======
 >>>>>>> parent of b875227... commit
+=======
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
 =======
 >>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     originalPath: 
@@ -2000,6 +2012,7 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 4279126e7c50171de27f1638e7a8327cef520f30
 =======
@@ -11749,5 +11762,7 @@ MonoBehaviour:
     status: 1
     staged: 0
 >>>>>>> parent of 1c66233... commit from class 2
+=======
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
 =======
 >>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
