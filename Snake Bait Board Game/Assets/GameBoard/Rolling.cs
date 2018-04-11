@@ -15,14 +15,20 @@ public class Rolling : MonoBehaviour {
 	}
 
     public int[] DiceValues;
+	public Sprite[] DiceOne;
+	public Sprite[] DiceTwo;
 
     public void RollTheDice()
     {
         //you roll two dice
         for (int i = 0; i < DiceValues.Length; i++)
         {
-            DiceValues[i] = Random.Range(0, 7);
+            DiceValues[i] = Random.Range(1, 7);
         }
-        Debug.Log("Rolled a " + DiceValues[0] + DiceValues[1]);
+
+        Debug.Log("Rolled a " + DiceValues[0] + " and a " + DiceValues[1]);
+
+
+
     }
 }
