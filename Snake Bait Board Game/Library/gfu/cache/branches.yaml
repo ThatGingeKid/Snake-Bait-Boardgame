@@ -11,9 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T11:30:48.9320338-04:00
   lastVerifiedAtString: 2018-04-11T11:30:48.9420338-04:00
   initializedAtString: 2018-04-11T11:30:44.6400266-04:00
+=======
+  lastUpdatedAtString: 2018-04-11T12:32:59.4968680-04:00
+  lastVerifiedAtString: 2018-04-11T12:32:59.5005390-04:00
+  initializedAtString: 2018-04-11T12:29:47.8546440-04:00
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
   gitConfigBranch:
     name: master
     remote:
@@ -27,10 +33,17 @@ MonoBehaviour:
     tracking: origin/master
     isActive: 1
   remoteBranches:
+<<<<<<< HEAD
   - name: origin/franz-branch
+=======
+  - name: origin/Daniel-Branch
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
     tracking: '[None]'
     isActive: 0
   - name: origin/HEAD
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/franz-branch
     tracking: '[None]'
     isActive: 0
   - name: origin/master
@@ -57,16 +70,29 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+<<<<<<< HEAD
       - franz-branch
+=======
+      - Daniel-Branch
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
       - HEAD
+      - franz-branch
       - master
     subKeyValues:
     - Values:
+<<<<<<< HEAD
       - name: franz-branch
+=======
+      - name: Daniel-Branch
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
         remote:
           name: origin
           url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
+      - name: franz-branch
         remote:
           name: origin
           url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git

@@ -11,9 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: 1109517887, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T11:30:44.7600268-04:00
   lastVerifiedAtString: 2018-04-11T11:30:44.7600268-04:00
   firstInitializedAtString: 2018-04-11T11:30:44.7600268-04:00
+=======
+  lastUpdatedAtString: 2018-04-11T11:26:53.4068550-04:00
+  lastVerifiedAtString: 2018-04-11T11:26:53.4068550-04:00
+  firstInitializedAtString: 2018-04-11T10:58:58.9742510-04:00
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
   gitRemote:
     name: origin
     url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git

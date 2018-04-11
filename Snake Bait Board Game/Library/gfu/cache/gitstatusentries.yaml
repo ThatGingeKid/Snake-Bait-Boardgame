@@ -11,9 +11,21 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T11:32:00.3063270-04:00
   lastVerifiedAtString: 2018-04-11T11:32:00.3063270-04:00
   initializedAtString: 2018-04-11T11:32:00.3063270-04:00
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-04-11T12:32:40.4683770-04:00
+  lastVerifiedAtString: 2018-04-11T12:32:46.5516260-04:00
+  initializedAtString: 2018-04-11T12:29:48.6290630-04:00
+  entries:
+=======
+  lastUpdatedAtString: 2018-04-11T11:21:59.4731730-04:00
+  lastVerifiedAtString: 2018-04-11T11:22:54.6639990-04:00
+  initializedAtString: 2018-04-11T11:00:05.1824170-04:00
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
   entries:
   - path: Snake Bait Board Game\Library\AssetImportState
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
@@ -57,10 +69,18 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+=======
+>>>>>>> 4279126e7c50171de27f1638e7a8327cef520f30
+  - path: Snake Bait Board Game/Library/gfu/cache/branches.yaml
+    fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+      Bait Board Game/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
     originalPath: 
     status: 3
     staged: 0
@@ -85,10 +105,19 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
       Game\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+=======
+<<<<<<< HEAD
+=======
+  - path: Snake Bait Board Game/Library/gfu/cache/gituser.yaml
+    fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+      Bait Board Game/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+>>>>>>> c31d1c4dd7eccb7c4807bd70bade04cca0e968e7
     originalPath: 
     status: 3
     staged: 0
@@ -1541,3 +1570,4 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
+>>>>>>> 4279126e7c50171de27f1638e7a8327cef520f30
