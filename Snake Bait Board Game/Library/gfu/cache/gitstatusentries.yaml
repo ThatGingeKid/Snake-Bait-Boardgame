@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T13:21:28.8343630-04:00
   lastVerifiedAtString: 2018-04-11T13:21:28.8343630-04:00
   initializedAtString: 2018-04-11T13:21:28.5739340-04:00
@@ -26,6 +27,16 @@ MonoBehaviour:
     fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
       Bait Board Game/Library/CurrentLayout.dwlt
     projectPath: Library/CurrentLayout.dwlt
+=======
+  lastUpdatedAtString: 2018-04-11T11:32:00.3063270-04:00
+  lastVerifiedAtString: 2018-04-11T11:32:00.3063270-04:00
+  initializedAtString: 2018-04-11T11:32:00.3063270-04:00
+  entries:
+  - path: Snake Bait Board Game\Library\AssetImportState
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\AssetImportState
+    projectPath: Library\AssetImportState
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     originalPath: 
     status: 3
     staged: 0
@@ -64,10 +75,17 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Library/gfu/cache/branches.yaml
     fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
       Bait Board Game/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
+=======
+  - path: Snake Bait Board Game\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     originalPath: 
     status: 3
     staged: 0
@@ -92,10 +110,17 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: Snake Bait Board Game/Library/gfu/cache/gituser.yaml
     fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
       Bait Board Game/Library/gfu/cache/gituser.yaml
     projectPath: Library/gfu/cache/gituser.yaml
+=======
+  - path: Snake Bait Board Game\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait Board
+      Game\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     originalPath: 
     status: 3
     staged: 0

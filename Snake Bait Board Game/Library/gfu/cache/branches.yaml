@@ -11,9 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T13:21:06.6935890-04:00
   lastVerifiedAtString: 2018-04-11T13:21:06.6935890-04:00
   initializedAtString: 2018-04-11T13:21:06.6425670-04:00
+=======
+  lastUpdatedAtString: 2018-04-11T11:30:48.9320338-04:00
+  lastVerifiedAtString: 2018-04-11T11:30:48.9420338-04:00
+  initializedAtString: 2018-04-11T11:30:44.6400266-04:00
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
   gitConfigBranch:
     name: master
     remote:
@@ -33,10 +39,20 @@ MonoBehaviour:
     tracking: origin/master
     isActive: 1
   remoteBranches:
+<<<<<<< HEAD
   - name: origin/HEAD
     tracking: '[None]'
     isActive: 0
   - name: origin/franz-branch
+=======
+  - name: origin/franz-branch
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/HEAD
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/master
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     tracking: '[None]'
     isActive: 0
   remotes:
@@ -70,15 +86,31 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+<<<<<<< HEAD
       - HEAD
       - franz-branch
     subKeyValues:
     - Values:
+=======
+      - franz-branch
+      - HEAD
+      - master
+    subKeyValues:
+    - Values:
+      - name: franz-branch
+        remote:
+          name: origin
+          url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       - name: HEAD
         remote:
           name: origin
           url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git
+<<<<<<< HEAD
       - name: franz-branch
+=======
+      - name: master
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
         remote:
           name: origin
           url: https://github.com/ThatGingeKid/Snake-Bait-Boardgame.git

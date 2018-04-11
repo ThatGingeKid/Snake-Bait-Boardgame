@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-04-11T13:21:07.7666760-04:00
   lastVerifiedAtString: 2018-04-11T13:21:07.7666760-04:00
   initializedAtString: 2018-04-11T13:21:07.7666760-04:00
@@ -16200,12 +16201,33 @@ MonoBehaviour:
       status: 5
       staged: 0
   - commitID: 10dd134368a17d503bfc619ef81d462377d9acdd
+=======
+  lastUpdatedAtString: 2018-04-11T11:30:49.8090645-04:00
+  lastVerifiedAtString: 2018-04-11T11:30:49.8090645-04:00
+  initializedAtString: 2018-04-11T11:30:45.3920289-04:00
+  log:
+  - commitID: 4279126e7c50171de27f1638e7a8327cef520f30
+    mergeA: f06aed205feaf9a28554fa2f2c4bfcc875eabf47
+    mergeB: f62be3c6d7e32e4cbea3e9c1aca70ced329e62e4
+    authorName: youngjiddle
+    authorEmail: falbright1@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #3 from ThatGingeKid/franz-branch'
+    description: "Merge pull request #3 from ThatGingeKid/franz-branch\r\n\r\ntest
+      branch"
+    timeString: 2018-04-11T11:24:51.0000000-04:00
+    commitTimeString: 2018-04-11T11:24:51.0000000-04:00
+    changes: []
+  - commitID: f62be3c6d7e32e4cbea3e9c1aca70ced329e62e4
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     mergeA: 
     mergeB: 
     authorName: Woodwing
     authorEmail: woodwing@Woodwings-MacBook-Air.local
     commitEmail: woodwing@Woodwings-MacBook-Air.local
     commitName: Woodwing
+<<<<<<< HEAD
     summary: Commity from class
     description: Commity from class
     timeString: 2018-04-11T12:32:27.0000000-04:00
@@ -26093,16 +26115,35 @@ MonoBehaviour:
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/Data/resources.assets.resS
       projectPath: test.app/Contents/Resources/Data/resources.assets.resS
+=======
+    summary: test branch
+    description: test branch
+    timeString: 2018-04-11T11:23:42.0000000-04:00
+    commitTimeString: 2018-04-11T11:23:42.0000000-04:00
+    changes:
+    - path: Snake Bait Board Game\Assets\GameBoard\Gameboard.unity
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Assets\GameBoard\Gameboard.unity
+      projectPath: Assets\GameBoard\Gameboard.unity
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
-      status: 4
+      status: 3
       staged: 0
+<<<<<<< HEAD
     - path: Snake Bait Board Game/test.app/Contents/Resources/Data/sharedassets0.assets
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/Data/sharedassets0.assets
       projectPath: test.app/Contents/Resources/Data/sharedassets0.assets
+=======
+    - path: Snake Bait Board Game\Assets\GameBoard\Rolling.cs
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Assets\GameBoard\Rolling.cs
+      projectPath: Assets\GameBoard\Rolling.cs
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
-      status: 4
+      status: 3
       staged: 0
+<<<<<<< HEAD
     - path: Snake Bait Board Game/test.app/Contents/Resources/Data/sharedassets0.assets.resS
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/Data/sharedassets0.assets.resS
@@ -26121,23 +26162,58 @@ MonoBehaviour:
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/DefaultPreferences.plist
       projectPath: test.app/Contents/Resources/DefaultPreferences.plist
+=======
+    - path: Snake Bait Board Game\Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
       originalPath: 
       status: 4
       staged: 0
+    - path: Snake Bait Board Game\Library\EditorInstance.json
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Snake Bait Board Game\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
+      originalPath: 
+      status: 3
+      staged: 0
+<<<<<<< HEAD
     - path: Snake Bait Board Game/test.app/Contents/Resources/KeyConfig.nib/classes.nib
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/KeyConfig.nib/classes.nib
       projectPath: test.app/Contents/Resources/KeyConfig.nib/classes.nib
+=======
+    - path: Snake Bait Board Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
-      status: 4
+      status: 3
       staged: 0
+<<<<<<< HEAD
     - path: Snake Bait Board Game/test.app/Contents/Resources/KeyConfig.nib/info.nib
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/KeyConfig.nib/info.nib
       projectPath: test.app/Contents/Resources/KeyConfig.nib/info.nib
+=======
+    - path: Snake Bait Board Game\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
-      status: 4
+      status: 3
       staged: 0
+<<<<<<< HEAD
     - path: Snake Bait Board Game/test.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib
@@ -26156,30 +26232,72 @@ MonoBehaviour:
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/MainMenu.nib/info.nib
       projectPath: test.app/Contents/Resources/MainMenu.nib/info.nib
+=======
+    - path: Snake Bait Board Game\Library\ShaderCache\3\381d679152b9203d8f300d3d589055bc.bin
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\ShaderCache\3\381d679152b9203d8f300d3d589055bc.bin
+      projectPath: Library\ShaderCache\3\381d679152b9203d8f300d3d589055bc.bin
       originalPath: 
       status: 4
       staged: 0
+    - path: Snake Bait Board Game\Library\ShaderCache\4\4ad65a44da71ada477fad25cb92b984b.bin
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\ShaderCache\4\4ad65a44da71ada477fad25cb92b984b.bin
+      projectPath: Library\ShaderCache\4\4ad65a44da71ada477fad25cb92b984b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Snake Bait Board Game\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
+      originalPath: 
+      status: 3
+      staged: 0
+<<<<<<< HEAD
     - path: Snake Bait Board Game/test.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
       projectPath: test.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+=======
+    - path: Snake Bait Board Game\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
-      status: 4
+      status: 3
       staged: 0
+<<<<<<< HEAD
     - path: Snake Bait Board Game/test.app/Contents/Resources/Mono.tif
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/Mono.tif
       projectPath: test.app/Contents/Resources/Mono.tif
+=======
+    - path: Snake Bait Board Game\Library\metadata\0e\0ee8426f5365173448a3ee9c417199d3
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\metadata\0e\0ee8426f5365173448a3ee9c417199d3
+      projectPath: Library\metadata\0e\0ee8426f5365173448a3ee9c417199d3
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
-      status: 4
+      status: 3
       staged: 0
+<<<<<<< HEAD
     - path: Snake Bait Board Game/test.app/Contents/Resources/ScreenSelector.nib/classes.nib
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/ScreenSelector.nib/classes.nib
       projectPath: test.app/Contents/Resources/ScreenSelector.nib/classes.nib
+=======
+    - path: Snake Bait Board Game\Library\shadercompiler-UnityShaderCompiler0.log
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Library\shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler0.log
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
-      status: 4
+      status: 3
       staged: 0
+<<<<<<< HEAD
     - path: Snake Bait Board Game/test.app/Contents/Resources/ScreenSelector.nib/designable.nib
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/ScreenSelector.nib/designable.nib
@@ -26212,6 +26330,40 @@ MonoBehaviour:
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/test.app/Contents/Resources/unity default resources
       projectPath: test.app/Contents/Resources/unity default resources
+=======
+    - path: Snake Bait Board Game\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Snake Bait Board Game\Temp\UnityLockfile
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Temp\UnityLockfile
+      projectPath: Temp\UnityLockfile
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Snake Bait Board Game\Temp\UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Temp\UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
+      projectPath: Temp\UnityTempFile-1dd07045f3cb04ccc93b6f4ca1f2a949
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Snake Bait Board Game\Temp\UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Temp\UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
+      projectPath: Temp\UnityTempFile-42ee2eda545f94c658af638c2a2dc0eb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Snake Bait Board Game\Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
       status: 4
       staged: 0
@@ -26222,6 +26374,7 @@ MonoBehaviour:
     authorEmail: falbright1@gmail.com
     commitEmail: noreply@github.com
     commitName: GitHub
+<<<<<<< HEAD
     summary: 'Merge pull request #3 from ThatGingeKid/franz-branch'
     description: 'Merge pull request #3 from ThatGingeKid/franz-branch
 
@@ -26229,6 +26382,13 @@ MonoBehaviour:
       test branch'
     timeString: 2018-04-11T11:24:51.0000000-04:00
     commitTimeString: 2018-04-11T11:24:51.0000000-04:00
+=======
+    summary: 'Merge pull request #2 from ThatGingeKid/franz-branch'
+    description: "Merge pull request #2 from ThatGingeKid/franz-branch\r\n\r\nFixed
+      paths"
+    timeString: 2018-04-11T10:47:39.0000000-04:00
+    commitTimeString: 2018-04-11T10:47:39.0000000-04:00
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     changes: []
   - commitID: f62be3c6d7e32e4cbea3e9c1aca70ced329e62e4
     mergeA: 
@@ -26242,10 +26402,24 @@ MonoBehaviour:
     timeString: 2018-04-11T11:23:42.0000000-04:00
     commitTimeString: 2018-04-11T11:23:42.0000000-04:00
     changes:
+<<<<<<< HEAD
     - path: Snake Bait Board Game/Assets/GameBoard/Gameboard.unity
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/Assets/GameBoard/Gameboard.unity
       projectPath: Assets/GameBoard/Gameboard.unity
+=======
+    - path: Snake Bait Board Game\Assets\GameBoard\Rolling.cs
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Assets\GameBoard\Rolling.cs
+      projectPath: Assets\GameBoard\Rolling.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game\Assets\Main Menu Assets\Main Menu.unity
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Assets\Main Menu Assets\Main Menu.unity
+      projectPath: Assets\Main Menu Assets\Main Menu.unity
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
       status: 3
       staged: 0
@@ -26368,6 +26542,7 @@ MonoBehaviour:
       originalPath: 
       status: 4
       staged: 0
+<<<<<<< HEAD
   - commitID: f06aed205feaf9a28554fa2f2c4bfcc875eabf47
     mergeA: 96380c9ba1b6bc24453f558e639b9df020a7bf72
     mergeB: f086d89a9d9abcbddc2ce0d3d0443b6da22c2a53
@@ -26581,6 +26756,12 @@ MonoBehaviour:
       fullPath: /Users/woodwing/Documents/GitHub/boardgame2/Snake-Bait-Boardgame/Snake
         Bait Board Game/Temp/UnityTempFile-e5157b2d73d614166b0499edfff0a714
       projectPath: Temp/UnityTempFile-e5157b2d73d614166b0499edfff0a714
+=======
+    - path: Snake Bait Board Game\Temp\UnityTempFile-e5157b2d73d614166b0499edfff0a714
+      fullPath: C:\Users\Daniel_2\Documents\GitHub\Snake-Bait-Boardgame\Snake Bait
+        Board Game\Temp\UnityTempFile-e5157b2d73d614166b0499edfff0a714
+      projectPath: Temp\UnityTempFile-e5157b2d73d614166b0499edfff0a714
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
       originalPath: 
       status: 5
       staged: 0
@@ -26592,10 +26773,15 @@ MonoBehaviour:
     commitEmail: noreply@github.com
     commitName: GitHub
     summary: 'Merge pull request #1 from ThatGingeKid/franz-branch'
+<<<<<<< HEAD
     description: 'Merge pull request #1 from ThatGingeKid/franz-branch
 
 
       Moving Files'
+=======
+    description: "Merge pull request #1 from ThatGingeKid/franz-branch\r\n\r\nMoving
+      Files"
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     timeString: 2018-04-11T10:28:37.0000000-04:00
     commitTimeString: 2018-04-11T10:28:37.0000000-04:00
     changes: []
@@ -26607,10 +26793,14 @@ MonoBehaviour:
     commitEmail: woodwing@Woodwings-MacBook-Air.local
     commitName: Woodwing
     summary: Moving Files
+<<<<<<< HEAD
     description: 'Moving Files
 
 
       Test'
+=======
+    description: "Moving Files\r\n\r\nTest"
+>>>>>>> parent of 624699f... Merge branch 'master' of https://github.com/ThatGingeKid/Snake-Bait-Boardgame
     timeString: 2018-04-11T10:25:49.0000000-04:00
     commitTimeString: 2018-04-11T10:25:49.0000000-04:00
     changes:
