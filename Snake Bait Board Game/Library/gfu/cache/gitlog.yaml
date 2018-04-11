@@ -11,11 +11,242 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-04-11T10:21:20.3932930-04:00
-  lastVerifiedAtString: 2018-04-11T10:21:20.3932930-04:00
-  initializedAtString: 2018-04-11T10:19:09.1525680-04:00
+  lastUpdatedAtString: 2018-04-11T12:31:23.7293810-04:00
+  lastVerifiedAtString: 2018-04-11T12:31:23.7293810-04:00
+  initializedAtString: 2018-04-11T12:29:48.5739120-04:00
   log:
-  - commitID: ae39ccab2ecb32422cf9c3fb5e63c30fb52efa46
+  - commitID: f06aed205feaf9a28554fa2f2c4bfcc875eabf47
+    mergeA: 96380c9ba1b6bc24453f558e639b9df020a7bf72
+    mergeB: f086d89a9d9abcbddc2ce0d3d0443b6da22c2a53
+    authorName: youngjiddle
+    authorEmail: falbright1@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #2 from ThatGingeKid/franz-branch'
+    description: 'Merge pull request #2 from ThatGingeKid/franz-branch
+
+
+      Fixed paths'
+    timeString: 2018-04-11T10:47:39.0000000-04:00
+    commitTimeString: 2018-04-11T10:47:39.0000000-04:00
+    changes: []
+  - commitID: f086d89a9d9abcbddc2ce0d3d0443b6da22c2a53
+    mergeA: 
+    mergeB: 
+    authorName: Woodwing
+    authorEmail: woodwing@Woodwings-MacBook-Air.local
+    commitEmail: woodwing@Woodwings-MacBook-Air.local
+    commitName: Woodwing
+    summary: Fixed paths
+    description: Fixed paths
+    timeString: 2018-04-11T10:46:49.0000000-04:00
+    commitTimeString: 2018-04-11T10:46:49.0000000-04:00
+    changes:
+    - path: Snake Bait Board Game/Assets/GameBoard/Rolling.cs
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Assets/GameBoard/Rolling.cs
+      projectPath: Assets/GameBoard/Rolling.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Assets/Main Menu Assets/Main Menu.unity
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Assets/Main Menu Assets/Main Menu.unity
+      projectPath: Assets/Main Menu Assets/Main Menu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Assets/Main Menu Assets/MainMenu.cs
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Assets/Main Menu Assets/MainMenu.cs
+      projectPath: Assets/Main Menu Assets/MainMenu.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/CurrentLayout.dwlt
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/EditorInstance.json
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Library/EditorUserBuildSettings.asset
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/LastSceneManagerSetup.txt
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/LastSceneManagerSetup.txt
+      projectPath: Library/LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/ShaderCache/9/9a62846acf0ae31d8cf4c8c759c7b8b3.bin
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/ShaderCache/9/9a62846acf0ae31d8cf4c8c759c7b8b3.bin
+      projectPath: Library/ShaderCache/9/9a62846acf0ae31d8cf4c8c759c7b8b3.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Snake Bait Board Game/Library/ShaderCache/c/cce26cb2b6955f5b8df6890cdc555620.bin
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/ShaderCache/c/cce26cb2b6955f5b8df6890cdc555620.bin
+      projectPath: Library/ShaderCache/c/cce26cb2b6955f5b8df6890cdc555620.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Snake Bait Board Game/Library/expandedItems
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/expandedItems
+      projectPath: Library/expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/gfu/cache/gituser.yaml
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/metadata/00/0000000000000000b000000000000000
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/metadata/00/0000000000000000b000000000000000
+      projectPath: Library/metadata/00/0000000000000000b000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/metadata/0e/0ee8426f5365173448a3ee9c417199d3
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/metadata/0e/0ee8426f5365173448a3ee9c417199d3
+      projectPath: Library/metadata/0e/0ee8426f5365173448a3ee9c417199d3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Library/metadata/98/986171a47864a9240b0747524acd9f86
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Library/metadata/98/986171a47864a9240b0747524acd9f86
+      projectPath: Library/metadata/98/986171a47864a9240b0747524acd9f86
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Snake Bait Board Game/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Temp/UnityLockfile
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Temp/UnityLockfile
+      projectPath: Temp/UnityLockfile
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Temp/UnityTempFile-32de7b8da42ba47019573e95747e8a2d
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Temp/UnityTempFile-32de7b8da42ba47019573e95747e8a2d
+      projectPath: Temp/UnityTempFile-32de7b8da42ba47019573e95747e8a2d
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Temp/UnityTempFile-652c73cda7a964fa2905f8b5f5d15d95
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Temp/UnityTempFile-652c73cda7a964fa2905f8b5f5d15d95
+      projectPath: Temp/UnityTempFile-652c73cda7a964fa2905f8b5f5d15d95
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Temp/UnityTempFile-6cad14c7e8d914fbcb4b859496788fd7
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Temp/UnityTempFile-6cad14c7e8d914fbcb4b859496788fd7
+      projectPath: Temp/UnityTempFile-6cad14c7e8d914fbcb4b859496788fd7
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Temp/UnityTempFile-c6c1e105c2afb46d1b3639c18e065e1e
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Temp/UnityTempFile-c6c1e105c2afb46d1b3639c18e065e1e
+      projectPath: Temp/UnityTempFile-c6c1e105c2afb46d1b3639c18e065e1e
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Temp/UnityTempFile-d81d8632f0b6e409e91c691a02419809
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Temp/UnityTempFile-d81d8632f0b6e409e91c691a02419809
+      projectPath: Temp/UnityTempFile-d81d8632f0b6e409e91c691a02419809
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Temp/UnityTempFile-d824d0d38b5ba440cb1243057130995d
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Temp/UnityTempFile-d824d0d38b5ba440cb1243057130995d
+      projectPath: Temp/UnityTempFile-d824d0d38b5ba440cb1243057130995d
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Snake Bait Board Game/Temp/UnityTempFile-e5157b2d73d614166b0499edfff0a714
+      fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/Snake
+        Bait Board Game/Temp/UnityTempFile-e5157b2d73d614166b0499edfff0a714
+      projectPath: Temp/UnityTempFile-e5157b2d73d614166b0499edfff0a714
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 96380c9ba1b6bc24453f558e639b9df020a7bf72
+    mergeA: 9c9ba71ee0aa61133c5fdc2a1b690acf939bd07c
+    mergeB: 52ca60698c7288c266a26d716f8b356d2702bf16
+    authorName: youngjiddle
+    authorEmail: falbright1@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #1 from ThatGingeKid/franz-branch'
+    description: 'Merge pull request #1 from ThatGingeKid/franz-branch
+
+
+      Moving Files'
+    timeString: 2018-04-11T10:28:37.0000000-04:00
+    commitTimeString: 2018-04-11T10:28:37.0000000-04:00
+    changes: []
+  - commitID: 52ca60698c7288c266a26d716f8b356d2702bf16
     mergeA: 
     mergeB: 
     authorName: Woodwing
@@ -27,8 +258,8 @@ MonoBehaviour:
 
 
       Test'
-    timeString: 2018-04-11T10:21:18.0000000-04:00
-    commitTimeString: 2018-04-11T10:21:18.0000000-04:00
+    timeString: 2018-04-11T10:25:49.0000000-04:00
+    commitTimeString: 2018-04-11T10:25:49.0000000-04:00
     changes:
     - path: .DS_Store
       fullPath: /Users/woodwing/Documents/GitHub/boardgametest/Snake-Bait-Boardgame/.DS_Store
